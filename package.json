@@ -1,0 +1,24 @@
+{
+  "name": "restapi-pakarkerja",
+  "version": "1.0.0",
+  "description": "rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParlinDh/Restapi-PakarKerja.git"
+  },
+  "keywords": [
+    "restapi",
+    "node",
+    "js"
+  ],
+  "author": "parlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParlinDh/Restapi-PakarKerja/issues"
+  },
+  "homepage": "https://github.com/ParlinDh/Restapi-PakarKerja#readme"
+}
